@@ -2,7 +2,7 @@
 
 Un sitio web multipágina e interactivo diseñado para simular una plataforma comercial de turismo espacial. Este proyecto fue desarrollado con un enfoque estricto en la fidelidad de diseño (**Pixel Perfect**), animaciones fluidas y una experiencia de usuario (UX) inmersiva, adaptada meticulosamente para dispositivos móviles, tablets y pantallas de escritorio.
 
-🎯 **Demo en Vivo:** [Visita la aplicación desplegada](https://gab0o06.github.io/Space-Tourism/)
+🎯 **Demo en Vivo:** [Visita la aplicación desplegada](https://gab0o06.github.io/Space-TourismFrontendMentor/)
 
 ---
 
