@@ -60,7 +60,7 @@ tabList.addEventListener('click', (e) => {
 ### Como ejecutar el proyecto Local
 1. Clona el repositorio
 ```console
-git clone [https://github.com/gab0o06/Space-TourismFrontendMentor.git](https://github.com/gab0o06/Space-TourismFrontendMentor.git)
+git clone https://github.com/gab0o06/Space-TourismFrontendMentor.git
 ```
 3. Abre el archivo index.html
 Puedes usar Live Server de VS code para un desarrollo en tiempo real.  
